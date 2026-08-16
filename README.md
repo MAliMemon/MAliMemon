@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C8BFF,100:8B5CF6&height=200&section=header&text=Muhammad%20Ali%20Memon&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Automation%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C8BFF,100:8B5CF6&height=200&section=header&text=Muhammad%20Ali%20Memon&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20and%20Automation%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6C8BFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+FAST+NUCES;RAG+%26+LLM+Application+Developer;Builder+of+real%2C+running+AI+products;AutoPost+is+live+%E2%80%94+posting+on+a+real+schedule+%F0%9F%A4%96;Open+for+Freelance+%26+Contract+Work" alt="Typing SVG" />
 
